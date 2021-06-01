@@ -1,6 +1,5 @@
 # Gun-Deaths-in-the-US
-R project
-[Gun Deaths in the US: 2012-2014](https://www.kaggle.com/hakabuk/gun-deaths-in-the-us?select=guns.csv)
+[Gun Deaths in the US: 2012-2014](https://www.kaggle.com/hakabuk/gun-deaths-in-the-us?select=guns.csv)<br>
 Information about gun-deaths from the CDC: Ages, gender, intent and more
 
 ### Context
